@@ -1,0 +1,21 @@
+StartChar: u10408
+Encoding: 8 66568 8
+Width: 835
+VWidth: 1754
+Flags: W
+HStem: 0 21G<669.172 704>
+VStem: 543 161<253.455 1000>
+LayerCount: 2
+Fore
+SplineSet
+704 0 m 1
+ 98 348 l 1
+ 98 509 l 1
+ 543 253.455078125 l 1
+ 543 1000 l 1
+ 704 1000 l 1
+ 704 161 l 1
+ 704 0 l 1
+EndSplineSet
+Validated: 524289
+EndChar
